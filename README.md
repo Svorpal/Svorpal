@@ -1,5 +1,7 @@
-### Hi there 👋 Welcome to Michael's GitHub
+# Hi there 👋 Welcome to Michael's GitHub
+### my [LinkedIn profile](https://www.linkedin.com/in/yonghao-michael-wu/)
 
+# My projects
 ### FPGA-accelerated Boid Algorithm Simulation on VGA (2023)
 [[web](https://svorpal.github.io/FPGA_website/) 
 Using a combination of the ARM A9 processor and DE1 SoC FPGA, our project successfully simulated dynamic boid (‘bird-oid object') flocking patterns, with a focus on optimizing cycle requirements and execution time
