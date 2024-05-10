@@ -3,18 +3,19 @@
 
 # My projects
 ### FPGA-accelerated Boid Algorithm Simulation on VGA (2023)
-[[web](https://svorpal.github.io/FPGA_website/) 
+[[web](https://svorpal.github.io/FPGA_website/)]
 Using a combination of the ARM A9 processor and DE1 SoC FPGA, our project successfully simulated dynamic boid (‘bird-oid object') flocking patterns, with a focus on optimizing cycle requirements and execution time
 
 ### Fast robot (2023)
-[[web](https://svorpal.github.io/fast_robot_website/) 
+[[web](https://svorpal.github.io/fast_robot_website/)]
 A fast robot car with stunting, mapping, and localization abilities, controlled remotely via Bluetooth. Software is programming in C++ running on a SparkFun Artemis Nano board.
 
 ### Digital Otamatone (2022)
 [[web](https://qd39l.github.io/digital-otamatone-web/) | [demo video](https://youtu.be/VtQSLCoaeEI)]
+Made an Otamatone, a type of Japanese analog electronic synthesizer, easier to play by building a circuit around its speaker and PCB with an RPi4, an Arduino Nano BLE 33, digital potentiometers, and relays.
 
 ### Bike Simulation Multiplayer Game(2022)
-[[web](https://github.com/Svorpal/BikeSimu) 
+[[web](https://github.com/Svorpal/BikeSimu)]
 Freeride is a mountain bike simulation that provides an engaging and interactive gaming experience for bikers and adventurers alike! The game incorporates computer vision-based pose detection coupled with a custom wireless controller constructed using real mountain bike handlebars to create a sense of realistic steering in-game. The game may also be controlled using a traditional keyboard setup. To win, the player must navigate down a treacherous mountain terrain through highlighted rings before time runs out! 
 
 
