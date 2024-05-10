@@ -6,13 +6,14 @@ Using a combination of the ARM A9 processor and DE1 SoC FPGA, our project succes
 
 ### Fast robot (2023)
 [[web](https://svorpal.github.io/fast_robot_website/) 
-A fast robot car that can perform remote control, stunts, mapping, and localization. Software is programming in C++ running on a SparkFun Artemis Nano board.
+A fast robot car with stunting, mapping, and localization abilities, controlled remotely via Bluetooth. Software is programming in C++ running on a SparkFun Artemis Nano board.
 
 ### Digital Otamatone (2022)
 [[web](https://qd39l.github.io/digital-otamatone-web/) | [demo video](https://youtu.be/VtQSLCoaeEI)]
 
-
-
+### Bike Simulation Multiplayer Game(2022)
+[[web](https://github.com/Svorpal/BikeSimu) 
+Freeride is a mountain bike simulation that provides an engaging and interactive gaming experience for bikers and adventurers alike! The game incorporates computer vision-based pose detection coupled with a custom wireless controller constructed using real mountain bike handlebars to create a sense of realistic steering in-game. The game may also be controlled using a traditional keyboard setup. To win, the player must navigate down a treacherous mountain terrain through highlighted rings before time runs out! 
 
 
 
